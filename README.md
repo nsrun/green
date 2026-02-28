@@ -38,7 +38,7 @@ a {
 ## 📫 Contact
 Feel free to reach out!
 
-[Email](mailto:your.email@example.com)
+
 
 ---
 
