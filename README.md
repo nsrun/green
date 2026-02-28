@@ -42,7 +42,5 @@ Feel free to reach out!
 
 ---
 
-*Thank you for visiting! 🌱*
-```
+*Thank you for visiting! 🌱
 
-Would you like a more specific or customized green GitHub README?
