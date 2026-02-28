@@ -1,6 +1,6 @@
-Sure! Here's a simple example of a green-themed GitHub README template:
 
-```markdown
+
+
 # Welcome to My Project! :green_heart:
 
 ## 🚀 About This Project
